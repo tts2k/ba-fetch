@@ -1,0 +1,10 @@
+{
+  "name": "ba-fetch",
+  "version": "1.0.0",
+  "main": "ba-fetch.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "better-sqlite3": "^7.5.0"
+  }
+}
